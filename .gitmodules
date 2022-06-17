@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesCombo"]
+	path = BayesCombo
+	url = https://github.com/stanlazic/bayescombo
+	shallow = true
+	registered = true
+[submodule "desiR"]
+	path = desiR
+	url = https://github.com/stanlazic/desir
+	shallow = true
+	registered = true
+[submodule "labstats"]
+	path = labstats
+	url = https://github.com/stanlazic/labstats
+	shallow = true
+	registered = true

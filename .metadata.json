@@ -1,0 +1,14 @@
+[
+  {
+    "package": "BayesCombo",
+    "oncran": true
+  },
+  {
+    "package": "desiR",
+    "oncran": true
+  },
+  {
+    "package": "labstats",
+    "oncran": true
+  }
+]
