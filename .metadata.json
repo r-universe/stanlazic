@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "labstats",
+    "package": "desiR",
     "oncran": true
   },
   {
-    "package": "desiR",
+    "package": "labstats",
     "oncran": true
   }
 ]
